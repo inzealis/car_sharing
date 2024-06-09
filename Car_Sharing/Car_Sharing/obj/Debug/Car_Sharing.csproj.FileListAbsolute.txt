@@ -1,0 +1,15 @@
+D:\6 семестр\Car_Sharing\Car_Sharing\bin\Debug\Car_Sharing.exe.config
+D:\6 семестр\Car_Sharing\Car_Sharing\bin\Debug\Car_Sharing.exe
+D:\6 семестр\Car_Sharing\Car_Sharing\bin\Debug\Car_Sharing.pdb
+D:\6 семестр\Car_Sharing\Car_Sharing\obj\Debug\Car_Sharing.csproj.AssemblyReference.cache
+D:\6 семестр\Car_Sharing\Car_Sharing\obj\Debug\Car_Sharing.Form1.resources
+D:\6 семестр\Car_Sharing\Car_Sharing\obj\Debug\Car_Sharing.Properties.Resources.resources
+D:\6 семестр\Car_Sharing\Car_Sharing\obj\Debug\Car_Sharing.csproj.GenerateResource.cache
+D:\6 семестр\Car_Sharing\Car_Sharing\obj\Debug\Car_Sharing.csproj.CoreCompileInputs.cache
+D:\6 семестр\Car_Sharing\Car_Sharing\obj\Debug\Car_Sharing.exe
+D:\6 семестр\Car_Sharing\Car_Sharing\obj\Debug\Car_Sharing.pdb
+D:\6 семестр\Car_Sharing\Car_Sharing\bin\Debug\CarSharingDb.mdf
+D:\6 семестр\Car_Sharing\Car_Sharing\bin\Debug\CarSharingDb_log.ldf
+D:\6 семестр\Car_Sharing\Car_Sharing\obj\Debug\Car_Sharing.Add_Car.resources
+D:\6 семестр\Car_Sharing\Car_Sharing\obj\Debug\Car_Sharing.Add_Customer.resources
+D:\6 семестр\Car_Sharing\Car_Sharing\obj\Debug\Car_Sharing.Add_Contract.resources
